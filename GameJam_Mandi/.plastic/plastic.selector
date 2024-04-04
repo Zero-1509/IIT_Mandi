@@ -1,0 +1,4 @@
+repository "GameJam_Mandi@unity_BDE307385C9C73B00916@cloud"
+  path "/"
+    br "/main"
+    co "/main"
